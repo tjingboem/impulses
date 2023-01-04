@@ -1,1 +1,1 @@
-collection of Impulses, mostley to be used for Blue effects.
+collection of Impulses, to be used for Blue effects or otherwisee.
